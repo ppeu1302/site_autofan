@@ -1,1 +1,1 @@
-Um projeto simplés projeto sobre carros.
+Um simplés projeto sobre carros.
